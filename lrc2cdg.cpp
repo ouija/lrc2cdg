@@ -27,6 +27,7 @@ CDG specifiation: https://jbum.com//cdg_revealed.html
 #include <sstream>
 #include <algorithm>
 #include <math.h>
+#include <cstdint>
 //a com is a word
 typedef struct {
   float stretch; //duration of word
